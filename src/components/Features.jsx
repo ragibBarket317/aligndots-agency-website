@@ -8,7 +8,7 @@ export default function Features() {
         {/* Header Section */}
         <div className="max-w-3xl mx-auto mb-16">
           <h2 className="text-2xl sm:text-3xl font-bold text-center text-orange-500 mb-4">
-            Why are we one of the best in the business ?
+            Why are we best at what we do ?
           </h2>
           <p className="text-center text-gray-600 text-sm sm:text-base mb-8">
             We don’t do cookie-cutter marketing—we craft strategies that

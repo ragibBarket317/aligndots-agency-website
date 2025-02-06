@@ -8,10 +8,10 @@ export default function Hero() {
         }}
       />
       <div className="relative z-10 container mx-auto px-4 text-center">
-        <h1 className="text-3xl md:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight">
-          AGENCY OF THE
+        <h1 className="text-3xl md:text-6xl lg:text-7xl font-bold text-white mb-10 leading-tight ">
+          WE ELEVATE BRANDS
           <br />
-          DIGITAL MARKETING
+          BEYOND LIMITS
         </h1>
         <p className="text-md md:text-xl text-gray-300 mb-8 max-w-3xl mx-auto">
           We do marketing that’s out of this world. 🚀 As experts in email

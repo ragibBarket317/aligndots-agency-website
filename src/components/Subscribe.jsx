@@ -29,7 +29,7 @@ export default function Subscribe() {
 
           <div className="flex-1 max-w-xl">
             <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-6">
-              Subscribe To Our Newsletter
+              Subscribe to get our free E book on strategic marketing !
             </h2>
 
             <form
@@ -44,6 +44,7 @@ export default function Subscribe() {
                 required
                 className="flex-1 px-4 py-3 border-b border-gray-300 focus:border-gray-900 outline-none bg-transparent"
               />
+
               <button
                 type="submit"
                 className="px-8 py-3 bg-black text-white font-semibold rounded hover:bg-gray-800 transition-colors whitespace-nowrap"
