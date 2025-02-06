@@ -16,7 +16,7 @@ export default function Features() {
             allow us to develop personalized strategies that improve your
             visibility and generate results.
           </p>
-          <h3 className="text-xl sm:text-2xl font-bold text-center">
+          <h3 className="text-xl sm:text-2xl font-bold text-black text-center">
             What's different from us?
           </h3>
         </div>
@@ -36,7 +36,9 @@ export default function Features() {
                 {/* Mobile Layout - Stack vertically */}
                 <div className="md:hidden space-y-6">
                   <div className="text-left px-4">
-                    <h4 className="text-xl font-bold mb-3">{feature.title}</h4>
+                    <h4 className="text-xl font-bold text-black mb-3">
+                      {feature.title}
+                    </h4>
                     <p className="text-gray-600 text-sm leading-relaxed">
                       {feature.description}
                     </p>
@@ -70,7 +72,7 @@ export default function Features() {
                         index % 2 === 1 ? 'text-right' : 'text-left'
                       } p-4`}
                     >
-                      <h4 className="text-xl lg:text-2xl font-bold mb-4">
+                      <h4 className="text-xl lg:text-2xl text-black font-bold mb-4">
                         {feature.title}
                       </h4>
                       <p className="text-gray-600 text-sm lg:text-base leading-relaxed">

@@ -26,7 +26,9 @@ export default function Services() {
                 height={150}
                 className="w-16 h-16 mx-auto mb-5"
               />
-              <h3 className="text-xl font-bold mb-4">{service.title}</h3>
+              <h3 className="text-xl font-bold text-black mb-4">
+                {service.title}
+              </h3>
               <p className="text-gray-600">{service.description}</p>
             </div>
           ))}
