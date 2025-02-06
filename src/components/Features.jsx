@@ -8,13 +8,13 @@ export default function Features() {
         {/* Header Section */}
         <div className="max-w-3xl mx-auto mb-16">
           <h2 className="text-2xl sm:text-3xl font-bold text-center text-orange-500 mb-4">
-            WHY ARE WE THE BEST ONLINE MARKETING AGENCY IN SPAIN?
+            Why are we one of the best in the business ?
           </h2>
           <p className="text-center text-gray-600 text-sm sm:text-base mb-8">
-            We have been helping brands like yours to achieve their goals in the
-            digital world for more than 10 years. Our experience and knowledge
-            allow us to develop personalized strategies that improve your
-            visibility and generate results.
+            We don’t do cookie-cutter marketing—we craft strategies that
+            actually work by understanding your business inside out. For years,
+            we’ve been helping businesses grow with data-driven tactics,
+            creative execution, and a relentless focus on results. 🚀
           </p>
           <h3 className="text-xl sm:text-2xl font-bold text-black text-center">
             What's different from us?
